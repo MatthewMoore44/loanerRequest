@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_cdltd_loaner_req.testing_scope_user" name="x_cdltd_loaner_req.testing_scope_user">0ecd2e1f39b01d107f44d57a44488afc</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-25 13:40:50</sys_created_on>
+        <sys_id>0acd2e1f39b01d107f44d57a44488aff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0ecd2e1f39b01d107f44d57a44488afc</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">ddcae388397411107f44d57a44488a35</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">ddcae388397411107f44d57a44488a35</sys_scope>
+        <sys_update_name>sys_embedded_help_role_0acd2e1f39b01d107f44d57a44488aff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-25 13:40:50</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
